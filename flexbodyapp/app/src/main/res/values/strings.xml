@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FlexBody</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">tXq13hLFkyvKHhtHZoA1B2Bn9in0HHIAorJBDfdd</string>
+    <string name="back4app_client_key">Jy190KJKuWc1J7IW6enT7uZ669iiZNA9NbL4TA5e</string>
+
+    <string name="home_nav_text">Home</string>
+    <string name="exercise_nav_text">Exercise</string>
+    <string name="nutrition_nav_text">Nutrition</string>
+    <string name="personal_nav_text">Personal</string>
+    <string name="feed_nav_text">Feed</string>
+    <string name="exerciseNameDummyString">Jumping Jacks</string>
+    <string name="exerciseDescDummyString">You jump around a lot. Back and forth. Whoo.</string>
+    <string name="description">Description: </string>
+    <string name="action_bar_search">Exercise Search</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="search_exercises_using_the_searchbar_results_will_display_here">Search exercises using the searchbar. Results will display here.</string>
+    <string name="my_personal_exercise_plan">My Personal Exercise Plan</string>
+    <string name="my_personal_nutrition_plan">My Personal Nutrition Plan</string>
+    <string name="profile">Profile</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="save">Save</string>
+    <string name="ex_my_workout">Ex. My workout</string>
+    <string name="comment">Comment</string>
+    <string name="by_flexbodyuser_on_june_14_2023">By FlexBodyUser on June 14, 2023</string>
+    <string name="this_is_a_great_post">This is a great post!</string>
+    <string name="log_out">Log Out</string>
+    <string name="upload">Upload</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="flexbodyuser">FlexBodyUser</string>
+    <string name="flexbody_gmail_com">flexbody@gmail.com</string>
+    <string name="welcome_flexbodyuser">Welcome, FlexBodyUser!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_label">flexbodyapp</string>
+    <string name="search_hint">Food</string>
+    <string name="nutrition_hint">Search Nutrition Info</string>
+    <string name="calories">Calories:</string>
+    <string name="protein">Protein:</string>
+    <string name="action_bar_nutrition_search">Nutrition</string>
+    <string name="search_nutrition_using_the_searchbar_results_will_display_here">Search nutrition using the searchbar results will display here</string>
+    <string name="n_a">N/A</string>
+</resources>
